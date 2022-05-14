@@ -1,6 +1,5 @@
 # Social Chemistry by Marissa King
-Get the book [here](https://www.amazon.com/Social-Chemistry-Decoding-Patterns-Connection/dp/1524743801)
-.
+Get the book [here](https://www.amazon.com/Social-Chemistry-Decoding-Patterns-Connection/dp/1524743801).
 
 ## Main Points
 There are 3 types of networks:
